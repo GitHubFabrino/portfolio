@@ -21,8 +21,8 @@ const projects = [
     src: "tree.jpg",
     link: "portfolio.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/GitHubFabrino/portfolio",
+    liveLink: "https://githubfabrino.github.io/portfolio/",
   },
   
   {
@@ -32,7 +32,7 @@ const projects = [
     src: "water.jpg",
     link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
     color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
+    githubLink: "https://github.com/GitHubFabrino/x-monitor",
     liveLink: "https://codewhisperer.vercel.app/",
   },
   
