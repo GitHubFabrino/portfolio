@@ -1,5 +1,5 @@
 import HeroImg from "@/assets/images/hero.png";
-import OlovaLogo from "@/assets/images/favicon.png";
+import OlovaLogo from "@/assets/images/icon.png";
 
 export default function About() {
   return (
