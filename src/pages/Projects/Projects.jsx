@@ -9,7 +9,7 @@ const projects = [
     description:
       "A real-time chat application with user authentication, responsive design, and smooth messaging experience.",
     src: "rock.jpg",
-    link: "/image1.png",
+    link: "image1.png",
     color: "#5196fd",
     githubLink: "https://github.com/GitHubFabrino/Chat-App",
     liveLink: "https://chat-app-rc7ow.sevalla.app/",
@@ -19,7 +19,7 @@ const projects = [
     description:
       "A modern and responsive portfolio showcasing projects, skills, and experiences, built with React and styled using Tailwind CSS.",
     src: "tree.jpg",
-    link: "/portfolio.png",
+    link: "portfolio.png",
     color: "#8f89ff",
     githubLink: "https://github.com/seraprogrammer/portfolio",
     liveLink: "https://codervai.vercel.app",
