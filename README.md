@@ -1,23 +1,18 @@
 # Portfolio Website
-<div align="center">
-  <pre>
-    _____           _    __      _ _       
-   |  __ \         | |  / _|    | (_)      
-   | |__) |__  _ __| |_| |_ ___ | |_  ___  
-   |  ___/ _ \| '__| __|  _/ _ \| | |/ _ \ 
-   | |  | (_) | |  | |_| || (_) | | | (_) |
-   |_|   \___/|_|   \__|_| \___/|_|_|\___/ 
-  </pre>
-</div>
+
 
  
-Welcome to my **portfolio website**! This site showcases my skills, experience, education, projects, and how to get in touch with me. It's built with **React** and **Vite** for a fast, modern web experience. You can explore my work, learn about my journey, and contact me directly.
+👋 Welcome to my **Portfolio Website**!  
+Here, you can discover my **skills**, **experience**, **education**, and a showcase of my **projects**.  
+
+✨ Built with **React** and **Vite**, this website delivers a **modern, fast, and responsive experience**.  
+🚀 Explore my journey, check out my work, and feel free to **get in touch** with me directly!
 
 ---
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
+![Portfolio Demo](/public/portfolio.png)
 
 ---
 
@@ -174,20 +169,6 @@ npm run dev
 View the Project 🌐
 Open your browser and visit http://localhost:5173/ to see the result! 🎉
 
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-### 🤝 Contributing
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-<div align="center"> Made with ❤️ by Nazmul Hossain </div>
+<div align="center"> Made with ❤️ by Fabrino PR </div>
 
