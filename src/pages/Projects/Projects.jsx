@@ -30,22 +30,22 @@ const projects = [
     description:
       "X-monitor is an application for managing user connections on a local network, enabling efficient control and monitoring of internet access 💻✨",
     src: "water.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+    link: "presentation.png",
     color: "#fff",
     githubLink: "https://github.com/GitHubFabrino/x-monitor",
-    liveLink: "https://codewhisperer.vercel.app/",
+    liveLink: "#",
   },
   
-  // {
-  //   title: "CodeKori 🔥",
-  //   description:
-  //     "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
-  //   src: "house.jpg",
-  //   link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
-  //   color: "#ed649e",
-  //   githubLink: "https://github.com/seraprogrammer/CodeKori",
-  //   liveLink: "https://codekori.js.org",
-  // },
+  {
+    title: "X-Dentwise AI Assistant",
+    description:
+      "Modern web application for dental clinic management with AI voice assistance, developed using Next.js and PostgreSQL, and containerized with Docker. The application integrates advanced artificial intelligence to simplify appointment scheduling and patient follow-up.",
+    src: "house.jpg",
+    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
+    color: "#ed649e",
+    githubLink: "https://github.com/GitHubFabrino/x-Dentwise",
+    liveLink: "#",
+  },
 ];
 
 export default function Projects() {
