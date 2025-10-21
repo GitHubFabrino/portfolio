@@ -46,6 +46,16 @@ const projects = [
     githubLink: "https://github.com/GitHubFabrino/x-Dentwise",
     liveLink: "#",
   },
+  {
+    title: "🛍️ X-Shop",
+    description:
+      "X-Shop is a cutting-edge e-commerce platform designed to streamline online shopping. It features secure authentication, advanced role and permission management, and a powerful API to efficiently manage products, categories, orders, and users.",
+    src: "house.jpg",
+    link: "x-shop.png",
+    color: "#1E3A8A",
+    githubLink: "https://github.com/GitHubFabrino/x-shop",
+    liveLink: "#",
+  },
 ];
 
 export default function Projects() {
