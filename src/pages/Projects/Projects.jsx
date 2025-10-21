@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Chat-App",
+    title: "💬 Chat-App",
     description:
       "A real-time chat application with user authentication, responsive design, and smooth messaging experience.",
     src: "rock.jpg",
@@ -15,7 +15,7 @@ const projects = [
     liveLink: "https://chat-app-rc7ow.sevalla.app/",
   },
   {
-    title: "Portfolio built with React and Tailwind CSS",
+    title: "💻✨ Portfolio built with React and Tailwind CSS",
     description:
       "A modern and responsive portfolio showcasing projects, skills, and experiences, built with React and styled using Tailwind CSS.",
     src: "tree.jpg",
@@ -37,12 +37,12 @@ const projects = [
   },
   
   {
-    title: "X-Dentwise AI Assistant",
+    title: "🦷🧠 X-Dentwise AI Assistant",
     description:
       "Modern web application for dental clinic management with AI voice assistance, developed using Next.js and PostgreSQL, and containerized with Docker. The application integrates advanced artificial intelligence to simplify appointment scheduling and patient follow-up.",
     src: "house.jpg",
     link: "pub.png",
-    color: "#e7ae33",
+    color: "#f39911",
     githubLink: "https://github.com/GitHubFabrino/x-Dentwise",
     liveLink: "#",
   },
