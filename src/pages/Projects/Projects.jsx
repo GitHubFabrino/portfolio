@@ -41,7 +41,7 @@ const projects = [
     description:
       "Modern web application for dental clinic management with AI voice assistance, developed using Next.js and PostgreSQL, and containerized with Docker. The application integrates advanced artificial intelligence to simplify appointment scheduling and patient follow-up.",
     src: "house.jpg",
-    link: "https://github.com/GitHubFabrino/x-Dentwise/raw/main/public/pub.png",
+    link: "pub.png",
     color: "#ed649e",
     githubLink: "https://github.com/GitHubFabrino/x-Dentwise",
     liveLink: "#",
